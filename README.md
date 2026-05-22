@@ -6,6 +6,3 @@
 - Delete Student
 - Update Student
 
-## How to Run
-g++ main.cpp -o student
-student
